@@ -4,7 +4,7 @@
 [![YouTube Badge](https://img.shields.io/badge/-BenKurrek-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCoB3YZ7QBzBiM03BYfApHSw)](https://www.youtube.com/channel/UCoB3YZ7QBzBiM03BYfApHSw) 
 [![GitHub benkurrek](https://img.shields.io/github/followers/benkurrek?label=follow&style=social)](https://github.com/benkurrek)
 
-<p><em>Engineering at <a href="https://uwaterloo.ca/engineering/">University of Waterloo</a></br>DevRel Engineer at <a href="https://near.org/">NEAR Protocol</a></br>Co-Founder at <a href="https://fayyr.com/">FAYYR </a>
+<p><em>Engineering at <a href="https://uwaterloo.ca/engineering/">University of Waterloo</a></br>DevRel Engineer at <a href="https://near.org/">NEAR Protocol</a></br>Co-Founder of <a href="https://keypom.xyz/">Keypom </a>
 </em></p>
 
 ![alt text](https://github.com/BenKurrek/BenKurrek/blob/main/assets/gojo_banner.jpg?raw=true)
